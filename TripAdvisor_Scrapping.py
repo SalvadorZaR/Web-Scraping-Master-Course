@@ -4,8 +4,6 @@ OBJETIVO:
     - Aprender a realizar extracciones de dos niveles de verticalidad y dos niveles de horizontalidad
     - Aprender a reducir el espectro de busqueda para filtrar URLs en las reglas
     - Evitar obtener URLs repetidas
-CREADO POR: LEONARDO KUFFO
-ULTIMA VEZ EDITADO: 09 ENERO 2023
 """
 from scrapy.item import Field
 from scrapy.item import Item
